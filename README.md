@@ -4,8 +4,8 @@
 This list gets free public proxies that are updated from time to time.  
 I collected them from the Internet for easy access. Remember, I'm not in charge of these proxies.
 
-Last Updated: `Saturday 01-02-2025 18:14:51 UTC`  
-Total Proxies: `4992`  
+Last Updated: `Saturday 01-02-2025 21:11:55 UTC`  
+Total Proxies: `6605`  
 
 ## DOWNLOAD
 
